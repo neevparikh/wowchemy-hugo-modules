@@ -46,7 +46,7 @@
 # Buttons
 
 - id: btn_preprint
-  translation: Preprint
+  translation: Workshop/Preprint
 
 - id: btn_pdf
   translation: PDF
@@ -166,7 +166,7 @@
   translation: Journal article
 
 - id: pub_preprint
-  translation: Preprint
+  translation: Workshop/Preprint
 
 - id: pub_report
   translation: Report
